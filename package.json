@@ -5,8 +5,8 @@
   "dependencies": {
     "dagre": "^0.8.5",
     "localforage": "^1.10.0",
-    "react": "file:../node_modules/react",
-    "react-dom": "file:../node_modules/react-dom",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
     "react-flow-renderer": "file:../",
     "react-router-dom": "^5.3.0",
     "react-scripts": "4.0.3",
